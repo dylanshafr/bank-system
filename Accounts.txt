@@ -1,0 +1,20 @@
+1
+123
+Baxter, Quentin
+45.67
+2
+874
+Nelson, Andrew
+35.89
+3
+1
+Shaffer, Dylan
+215.12
+4
+293
+Thorson, Cory
+0
+5
+438
+Widener, Todd
+140.87
